@@ -1,4 +1,4 @@
 # trex
 A celery monitoring tool.
 
-![repo logo](../master/baby_dragon.jpeg)
+![baby drago](../master/baby_dragon.jpeg)
